@@ -1,0 +1,30 @@
+.inner-img-about img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.inner-content-about {
+    display: flex;
+    color: #807777;
+}
+.inner-content-child{
+    color: #807777;
+    margin-bottom: 50px;
+}
+.inner-content-main{
+    width: 70%;
+    margin-top: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    line-height: 25px;
+}
+h2{
+    display: inline;
+}
+.inner-title-about{
+    display: flex;
+    justify-content: center;
+}
